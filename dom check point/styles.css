@@ -1,0 +1,90 @@
+#cart {
+    padding: 30px;
+    margin: 40px;
+    background-color: aqua;
+}
+img {
+    width: 200px
+}
+input {
+    width:60px
+}
+h2 {
+    background-color: brown;
+}
+#sum {
+    display: flex;
+    flex-direction: column;
+}
+.cart {
+    position: relative;
+    max-width: fit-content;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 4px;
+}
+.cartAmount {
+    position: absolute;
+    top: -15px;
+    right: -10px;
+    font-size: 16px;
+    background-color: red;
+    color: white;
+}
+#buttonsfirst{
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+    background-color: tomato;
+    max-width: fit-content3;
+    width:fit-content;
+    gap: 8px;
+    font-size: 20px;
+}
+.shop {
+    width: 200px;
+    text-align: center;
+}
+#buttonssecond {
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+    background-color: tomato;
+    max-width: fit-content3;
+    width:fit-content;
+    gap: 8px;
+    font-size: 20px;
+}
+#buttonsthird {
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+    background-color: tomato;
+    max-width: fit-content3;
+    width:fit-content;
+    gap: 8px;
+    font-size: 20px;
+}
+#priceone {
+    display:inline-block
+}
+#dolone {
+    display:inline-block
+}
+#pricetwo {
+    display:inline-block
+}
+#doltwo {
+    display:inline-block
+}
+#pricethree {
+    display:inline-block
+}
+#dolthree {
+    display:inline-block
+}
+#firstheart {
+color: red;
+}
